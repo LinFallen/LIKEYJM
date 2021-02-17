@@ -4,7 +4,7 @@
 
 ## 一：项目展示
 项目效果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200625202043188.gif)
+![在这里插入图片描述](https://github.com/LinFallen/LIKEYJM/blob/master/preview.png)
 在线演示：
 [https://wablers.xyz/LIKEYJM/](https://wablers.xyz/LIKEYJM/)
 
